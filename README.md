@@ -13,7 +13,7 @@ Quiz
 <br>
 
 <p align="center">
-  <img src=".github/preview.png" width="80%">
+  <img src=".github/NLW-Expert.jpg" width="80%">
 </p>
 
 <br>
